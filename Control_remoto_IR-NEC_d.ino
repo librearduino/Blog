@@ -1,4 +1,4 @@
-#include "Adafruit_NECremote.h"
+#include "Adafruit_NECremote.h" //hola
 
 #define IRpin         6
 Adafruit_NECremote remote(IRpin);
